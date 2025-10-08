@@ -34,4 +34,4 @@ This project is a dynamic and user-friendly food delivery website developed usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sweety-Vigneshg/food-delivery-website.git
+   git clone https://github.com/Vigneshgbe/food-delivery-website.git
