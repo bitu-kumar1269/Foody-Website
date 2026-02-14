@@ -12,7 +12,7 @@ This project is a dynamic and user-friendly food delivery website developed usin
 <img width="1646" height="710" alt="image" src="https://github.com/user-attachments/assets/67d338af-dcfa-4a87-b5a3-d05fae4d3cfd" />
 <img width="1640" height="708" alt="image" src="https://github.com/user-attachments/assets/b720a4b3-fd3c-48b5-84fd-051d1900704c" />
 <img width="1652" height="714" alt="image" src="https://github.com/user-attachments/assets/3b7051ef-5956-4c3f-9402-58d938d58ac1" />
-<img width="1642" height="708" alt="image" src="https://github.com/user-attachments/assets/89d770f5-56ba-4c7c-8ea3-6b5c89e045a1" />
+<!-- <img width="1642" height="708" alt="image" src="https://github.com/user-attachments/assets/89d770f5-56ba-4c7c-8ea3-6b5c89e045a1" /> -->
 
 ## Features
 
